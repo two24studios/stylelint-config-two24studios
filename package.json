@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config-two24studios",
+  "version": "1.0.0",
+  "description": "Two24 Studios shareable stylelint config",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "stylelint-config-scss"
+  ],
+  "author": "Jason Walker <jason@two24studios.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/two24studios/stylelint-config-two24studios"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-recess-order": "^2.0.3",
+    "stylelint-scss": "^3.9.4"
+  },
+  "devDependencies": {
+    "stylelint": "^10.1.0"
+  }
+}

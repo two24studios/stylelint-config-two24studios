@@ -1,0 +1,6 @@
+# files to ignore
+.DS_Store
+yarn.lock
+
+# folders to ignore
+node_modules
